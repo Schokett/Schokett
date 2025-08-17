@@ -1,4 +1,5 @@
 # 🌸 Hey, ich bin Skrollan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Frontend+Entwicklerin;UI+%26+UX+Design;Vue.js+%7C+TypeScript+%7C+Vite)](https://git.io/typing-svg)
 
 👩‍💻 *Angehende Fachinformatikerin für Anwendungsentwicklung*  
 ✨ Fokus auf **Frontend-Entwicklung** & UI/UX Design  
@@ -50,15 +51,6 @@
     alt="Meistgenutzte Sprachen" />
 </picture>
 
-<!-- Streak -->
-<picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=schokett&hide_border=true&card_width=495&theme=tokyonight"
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://streak-stats.demolab.com?user=schokett&hide_border=true&card_width=495"
-    alt="Contributions Streak" />
-</picture>
 
 ---
 
