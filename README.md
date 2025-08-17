@@ -60,8 +60,7 @@
     alt="Contributions Streak" />
 </picture>
 
-<sub>Hinweis: Die Sprachkarte zeigt den Anteil in deinen Repos – nicht dein Skill-Level 😉</sub>
-
+---
 
 ## ✨ Fun Facts
 - 🌍 Verbindet Kulturen – deutsch & japanisch prägen meinen Alltag  
