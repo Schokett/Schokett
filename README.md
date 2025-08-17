@@ -26,6 +26,43 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<!-- Overall Stats -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=schokett&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=schokett&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
+    alt="Skrollans GitHub Stats" />
+</picture>
+
+<!-- Top Languages (shows repo language mix, not skill level) -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200"
+    alt="Meistgenutzte Sprachen" />
+</picture>
+
+<!-- Streak -->
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=schokett&hide_border=true&card_width=495&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://streak-stats.demolab.com?user=schokett&hide_border=true&card_width=495"
+    alt="Contributions Streak" />
+</picture>
+
+<sub>Hinweis: Die Sprachkarte zeigt den Anteil in deinen Repos – nicht dein Skill-Level 😉</sub>
+
+
 ## ✨ Fun Facts
 - 🌍 Verbindet Kulturen – deutsch & japanisch prägen meinen Alltag  
 - 🎨 Alles, was mit Farben und Ästhetik zu tun hat, zieht mich magisch an  
