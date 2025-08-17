@@ -1,8 +1,6 @@
 # 🌸 Hey, ich bin Skrollan 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&pause=1000&color=FF6DC6&width=435&lines=%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Frontend-Entwickler)](https://git.io/typing-svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schokett&theme=tokyo-night)
-
 👩‍💻 *Angehende Fachinformatikerin für Anwendungsentwicklung*  
 ✨ Fokus auf **Frontend-Entwicklung** & UI/UX Design  
 
