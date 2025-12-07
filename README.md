@@ -20,8 +20,7 @@
 
 ---
 
-## 🌱 Aktuell
-- 📚 Ausbildung zur Fachinformatikerin (ruht derzeit während Elternzeit)  
+## 🌱 Aktuell 
 - 🌸 Entwickle kleine Projekte & Tools, um **Lernen und Alltag zu verbinden**  
 - 🎯 Ziel: Performante & zugängliche Web-Apps mit kreativem Flair  
 
