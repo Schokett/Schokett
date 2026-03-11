@@ -56,7 +56,7 @@
 ## ✨ Fun Facts
 - 🌍 Verbindet Kulturen – deutsch & japanisch prägen meinen Alltag  
 - 🎨 Alles, was mit Farben und Ästhetik zu tun hat, zieht mich magisch an  
-- 👶 Mama & Entwicklerin – Debugging läuft oft parallel zum Baby-Nickerchen  
+- 👶 Mama & Entwicklerin – Debugging läuft oft parallel zum Mittagschläfchen  
 
 ---
 
