@@ -18,8 +18,7 @@
 ---
 
 ## 🌱 Aktuell 
-- 🌸 Entwickle kleine Projekte & Tools, um **Lernen und Alltag zu verbinden**  
-- 🎯 Ziel: Performante & zugängliche Web-Apps mit kreativem Flair  
+- 🎯 Ziel: Performante & zugängliche Web-Apps
 
 ---
 
@@ -52,8 +51,7 @@
 
 ## ✨ Fun Facts
 - 🌍 Verbindet Kulturen – deutsch & japanisch prägen meinen Alltag  
-- 🎨 Alles, was mit Farben und Ästhetik zu tun hat, zieht mich magisch an  
-- 👶 Mama & Entwicklerin – Debugging läuft oft parallel zum Mittagschläfchen  
+- 🎨 Alles, was mit Farben und Ästhetik zu tun hat, zieht mich magisch an   
 
 ---
 
