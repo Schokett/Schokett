@@ -1,12 +1,12 @@
-# Hey, ich bin Skrollan 👋
+# Hey, i'm Skrollan 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&pause=1000&color=FF6DC6&width=435&lines=%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Frontend-Entwickler)](https://git.io/typing-svg)
 
-👩‍💻 *Webentwicklerin*  
-✨ Fokus auf **Frontend-Entwicklung** 
+👩‍💻 *Web Developer*  
+✨  Focus on **Frontend Development** 
 
 ---
 
-## 🚀 Technologien & Tools  
+## 🚀 Technologies and tools  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
@@ -17,8 +17,8 @@
 
 ---
 
-## 🌱 Aktuell 
-- 🎯 Ziel: Performante & zugängliche Web-Apps
+## 🌱 Current
+- 🎯 Goal: High-performance & accessible web apps
 
 ---
 
@@ -50,8 +50,8 @@
 ---
 
 ## ✨ Fun Facts
-- 🌍 Verbindet Kulturen – deutsch & japanisch prägen meinen Alltag  
-- 🎨 Alles, was mit Farben und Ästhetik zu tun hat, zieht mich magisch an   
+- 🌍 Bridging cultures | Shaped by German & Japanese life.  
+- 🎨 I have a deep passion for all things color and aesthetics. 
 
 ---
 
