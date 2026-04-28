@@ -55,5 +55,5 @@
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 📧 [skrollanelenazimmermann@gmail.com](mailto:skrollanelenazimmermann@gmail.com)  
