@@ -16,18 +16,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
----
 
-## 🌱 Current
-- 🎯 Goal: High-performance & accessible web apps
-
----
-
-## ✨ Fun Facts
-- 🌍 Bridging cultures | Shaped by German & Japanese life.  
-- 🎨 I have a deep passion for all things color and aesthetics. 
-
----
-
-## 📫 Contact
-📧 [skrollanelenazimmermann@gmail.com](mailto:skrollanelenazimmermann@gmail.com)  
