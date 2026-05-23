@@ -23,20 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Overall Stats -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)" />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true"
-    alt="Meistgenutzte Sprachen" />
-</picture>
-
----
-
 ## ✨ Fun Facts
 - 🌍 Bridging cultures | Shaped by German & Japanese life.  
 - 🎨 I have a deep passion for all things color and aesthetics. 
