@@ -27,11 +27,11 @@
 <!-- Overall Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=schokett&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200&theme=tokyonight"
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=schokett&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"
-    alt="Skrollans GitHub Stats" />
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true"
+    alt="Meistgenutzte Sprachen" />
 </picture>
 
 
