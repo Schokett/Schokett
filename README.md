@@ -16,4 +16,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
+<!-- Beispiel für dein README.md -->
+<div style="background-color: #1c1c1c; padding: 20px; font-family: monospace; color: #00ff00; border-radius: 8px;">
+  <p>user@github:~$ <span style="color: #fff;">help</span></p>
+  <p style="color: #aaa;">Verfügbare Befehle. Klicke auf einen Befehl, um ihn auszuführen:</p>
+  
+  <ul>
+    <li><a href="./commands/about.md" style="color: #00ff00; text-decoration: none;">[1] ./about_me.sh</a></li>
+    <li><a href="./commands/projects.md" style="color: #00ff00; text-decoration: none;">[2] ./show_projects.py</a></li>
+    <li><a href="./commands/skills.md" style="color: #00ff00; text-decoration: none;">[3] ./print_skills.env</a></li>
+  </ul>
+</div>
 
