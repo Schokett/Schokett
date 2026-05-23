@@ -48,10 +48,10 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&layout=compact&langs_count=6&hide_border=true&cache_seconds=7200&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true&cache_seconds=7200&theme=tokyonight"
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&layout=compact&langs_count=6&hide_border=true&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true&cache_seconds=7200"
     alt="Meistgenutzte Sprachen" />
 </picture>
 
