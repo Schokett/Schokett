@@ -27,13 +27,12 @@
 <!-- Overall Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true&theme=tokyonight"
+    srcset="https://github-readme-profile-alpha.vercel.app/api?username=schokett&type=languages&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)" />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schokett&langs_count=5&hide_border=true"
+    src="https://github-readme-profile-alpha.vercel.app/api?username=schokett&type=languages&hide_border=true"
     alt="Meistgenutzte Sprachen" />
 </picture>
-
 
 ---
 
